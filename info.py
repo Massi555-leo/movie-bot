@@ -13,19 +13,19 @@ def is_enabled(value, default):
 #---------------------------------------------------------------
 #---------------------------------------------------------------         ,
 SESSION = environ.get('SESSION', 'Media_search')
-API_ID = int(environ.get('API_ID', '26741021'))
-API_HASH = environ.get('API_HASH', '7c5af0b88c33d2f5cce8df5d82eb2a94')
+API_ID = int(environ.get('API_ID', '26305002'))
+API_HASH = environ.get('API_HASH', '36933c99a6db923b3e2aaa72f1483802')
 BOT_TOKEN = environ.get('BOT_TOKEN', '')
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '6859451629 7386197638').split()]
-USERNAME = environ.get('USERNAME', "https://t.me/Mahesh8182") # ADMIN USERNAME
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002084819782'))
-MOVIE_GROUP_LINK = environ.get('MOVIE_GROUP_LINK', 'https://t.me/akimax06')
-CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1003001499416').split()]
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '5780708168 6859451629 7386197638').split()]
+USERNAME = environ.get('USERNAME', "https://t.me/KANNADA_KID") # ADMIN USERNAME
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002114486477'))
+MOVIE_GROUP_LINK = environ.get('MOVIE_GROUP_LINK', 'https://t.me/MALLlinkss')
+CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002261612040').split()]
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://akimax8182:akimax8182@cluster0.drfp9pq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://manuleox444:manuleox444@cluster0.alu863o.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster0")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'lazyfilesx')
 
@@ -39,28 +39,28 @@ S_DB_URI = environ.get('S_DB_URI', "mongodb+srv://cutoffpic143:cutoffpic143@clus
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 #----------- There will be channel id add in all these ---------
-LOG_API_CHANNEL = int(environ.get('LOG_API_CHANNEL', '-1002084819782'))  # set shortner log channel
-DELETE_CHANNELS = int(environ.get('DELETE_CHANNELS','-1002084819782')) # The movie you upload in it will be deleted from the bot.
-LOG_VR_CHANNEL = int(environ.get('LOG_VR_CHANNEL', '-1002084819782'))
-auth_channel = environ.get('AUTH_CHANNEL', '-1003180553398')
-SUPPORT_GROUP = int(environ.get('SUPPORT_GROUP', '-1002263224485'))
-request_channel = environ.get('REQUEST_CHANNEL', '-1002208017487') # If anyone sends a request message to your bot, you will get it in this channel.
-MOVIE_UPDATE_CHANNEL = int(environ.get('MOVIE_UPDATE_CHANNEL', '-1002437541681')) # 
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/akDiscussion_group') #Support group link ( make sure bot is admin )
+LOG_API_CHANNEL = int(environ.get('LOG_API_CHANNEL', '-1002114486477'))  # set shortner log channel
+DELETE_CHANNELS = int(environ.get('DELETE_CHANNELS','-1002114486477')) # The movie you upload in it will be deleted from the bot.
+LOG_VR_CHANNEL = int(environ.get('LOG_VR_CHANNEL', '-1002114486477'))
+auth_channel = environ.get('AUTH_CHANNEL', '-1002084178875')
+SUPPORT_GROUP = int(environ.get('SUPPORT_GROUP', '-1002084178875'))
+request_channel = environ.get('REQUEST_CHANNEL', '-1002114486477') # If anyone sends a request message to your bot, you will get it in this channel.
+MOVIE_UPDATE_CHANNEL = int(environ.get('MOVIE_UPDATE_CHANNEL', '-1002084178875')) # 
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/+CBD-0cewqWFlMjg9') #Support group link ( make sure bot is admin )
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 IS_VERIFY = is_enabled('IS_VERIFY', True)
 #---------------------------------------------------------------
-TUTORIAL = environ.get("TUTORIAL", "https://t.me/c/2437541681/364")
-TUTORIAL_2 = environ.get("TUTORIAL_2", "https://t.me/c/2437541681/364")
-TUTORIAL_3 = environ.get("TUTORIAL_3", "https://t.me/c/2437541681/364")
+TUTORIAL = environ.get("TUTORIAL", "https://t.me/OPENlinkssp")
+TUTORIAL_2 = environ.get("TUTORIAL_2", "https://t.me/OPENlinkssp")
+TUTORIAL_3 = environ.get("TUTORIAL_3", "https://t.me/OPENlinkssp")
 VERIFY_IMG = environ.get("VERIFY_IMG", "https://graph.org/file/1669ab9af68eaa62c3ca4.jpg")
-SHORTENER_API = environ.get("SHORTENER_API", "1492d7161b70dea738aa23dcb3163be93b624a6d")
-SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", 'aklinkpays.in')
-SHORTENER_API2 = environ.get("SHORTENER_API2", "1492d7161b70dea738aa23dcb3163be93b624a6d")
-SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", 'aklinkpays.in')
-SHORTENER_API3 = environ.get("SHORTENER_API3", "1492d7161b70dea738aa23dcb3163be93b624a6d")
-SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", 'aklinkpays.in')
+SHORTENER_API = environ.get("SHORTENER_API", "b76f67cf7284707d3211dd48fed23111fe56da7a")
+SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", 'shortxlinks.com')
+SHORTENER_API2 = environ.get("SHORTENER_API2", "b76f67cf7284707d3211dd48fed23111fe56da7a")
+SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", 'shortxlinks.com')
+SHORTENER_API3 = environ.get("SHORTENER_API3", "b76f67cf7284707d3211dd48fed23111fe56da7a")
+SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", 'shortxlinks.com')
 TWO_VERIFY_GAP = int(environ.get('TWO_VERIFY_GAP', "1800"))
 THREE_VERIFY_GAP = int(environ.get('THREE_VERIFY_GAP', "1800"))
 #---------------------------------------------------------------
@@ -105,7 +105,7 @@ LINK_MODE = is_enabled('LINK_MODE', True)
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-STREAM_MODE = bool(environ.get('STREAM_MODE', True)) # Set True or Flase
+STREAM_MODE = bool(environ.get('STREAM_MODE', False)) # Set True or Flase
 # Online Stream and Download
 
 MULTI_CLIENT = True
@@ -115,7 +115,7 @@ if 'DYNO' in environ:
     ON_HEROKU = True
 else:
     ON_HEROKU = True
-URL = environ.get("FQDN", "https://progressive-emelina-vegamovienewbot-ad86079b.koyeb.app/")
+URL = environ.get("FQDN", " ")
 
 #---------------------------------------------------------------
 #---------------------------------------------------------------
