@@ -42,7 +42,7 @@ S_DB_URI = environ.get('S_DB_URI', "mongodb+srv://cutoffpic143:cutoffpic143@clus
 LOG_API_CHANNEL = int(environ.get('LOG_API_CHANNEL', '-1002114486477'))  # set shortner log channel
 DELETE_CHANNELS = int(environ.get('DELETE_CHANNELS','-1002114486477')) # The movie you upload in it will be deleted from the bot.
 LOG_VR_CHANNEL = int(environ.get('LOG_VR_CHANNEL', '-1002114486477'))
-auth_channel = environ.get('AUTH_CHANNEL', '-1002084178875')
+auth_channel = environ.get('AUTH_CHANNEL', '-1002114486477')
 SUPPORT_GROUP = int(environ.get('SUPPORT_GROUP', '-1002084178875'))
 request_channel = environ.get('REQUEST_CHANNEL', '-1002114486477') # If anyone sends a request message to your bot, you will get it in this channel.
 MOVIE_UPDATE_CHANNEL = int(environ.get('MOVIE_UPDATE_CHANNEL', '-1002084178875')) # 
@@ -152,7 +152,7 @@ admin_cmds = [
     "/delreq", "/channel", "/del_file", "/delete",
     "/deletefiles", "/deleteall", 
     "All These Commands Can Be Used Only By Admins.", 
-    "⚡ powered by @𝘃𝗲𝗴𝗮𝗺𝗼𝘃𝗶𝗲𝘀𝗻𝗲𝘄𝗶𝗻"
+    "⚡ powered by @Mall00003"
 ]
 
 cmds = [
