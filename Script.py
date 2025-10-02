@@ -39,7 +39,7 @@ class script(object):
 <blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://t.me/KANNADA_KID'>ᏦᴀɴɴᎪᴅᎪܔᴋɪᴅ『 🎭 』</a></b></blockquote>"""
     
 
-    ABOUT_TEXT = """<blockquote><b>‣ ᴍʏ ɴᴀᴍᴇ : ●⃝Rᴏᴄᴋʏ ⚡️</blockquote></b>\n<blockquote><b>‣ ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/Mahesh8182'>Mahesh8182</a></blockquote></b>\n<blockquote><b>‣ ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ</blockquote></b>\n<blockquote><b>‣ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ</blockquote></b>\n<blockquote><b>‣ ᴅᴀᴛᴀ ʙᴀsᴇ : ᴍᴏɴɢᴏ ᴅʙ</blockquote></b>\n<blockquote><b>‣ ʜᴏsᴛᴇᴅ ᴏɴ  : ᴀʟʟ ᴡᴇʙ</blockquote></b>\n<blockquote><b>‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ5.2 [sᴛᴀʙʟᴇ]</b></blockquote>"""    
+    ABOUT_TEXT = """<blockquote><b>‣ ᴍʏ ɴᴀᴍᴇ : ●⃝Rᴏᴄᴋʏ ⚡️</blockquote></b>\n<blockquote><b>‣ ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/KANNADA_KID'>ᏦᴀɴɴᎪᴅᎪܔᴋɪᴅ『 🎭 』</a></blockquote></b>\n<blockquote><b>‣ ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ</blockquote></b>\n<blockquote><b>‣ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ</blockquote></b>\n<blockquote><b>‣ ᴅᴀᴛᴀ ʙᴀsᴇ : ᴍᴏɴɢᴏ ᴅʙ</blockquote></b>\n<blockquote><b>‣ ʜᴏsᴛᴇᴅ ᴏɴ  : ᴀʟʟ ᴡᴇʙ</blockquote></b>\n<blockquote><b>‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ5.2 [sᴛᴀʙʟᴇ]</b></blockquote>"""    
     
     SUPPORT_GRP_MOVIE_TEXT = '''<b>ʜᴇʏ {}
 
@@ -390,6 +390,7 @@ developer : Mr.Mahesh
 ʙʏ /details ᴄᴏᴍᴍᴀɴᴅ
 </blockquote>
 Iғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ᴅᴏᴜʙᴛs ᴘʟᴇᴀsᴇ <a href="https://t.me/Mahesh8182">ᴄᴏɴᴛᴀᴄᴛ</a> ᴍʏ <a href="https://t.me/Mahesh8182">ᴀᴅᴍɪɴ</a></b>"""
+
 
 
 
