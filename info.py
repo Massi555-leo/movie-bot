@@ -39,7 +39,7 @@ S_DB_URI = environ.get('S_DB_URI', "mongodb+srv://cutoffpic143:cutoffpic143@clus
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 #----------- There will be channel id add in all these ---------
-LOG_API_CHANNEL = int(environ.get('LOG_API_CHANNEL', '-1002114486477'))  # set shortner log channel
+LOG_API_CHANNEL = int(environ.get('LOG_API_CHANNEL', '-1003565807199'))  # set shortner log channel
 DELETE_CHANNELS = int(environ.get('DELETE_CHANNELS','-1002114486477')) # The movie you upload in it will be deleted from the bot.
 LOG_VR_CHANNEL = int(environ.get('LOG_VR_CHANNEL', '-1003565807199'))
 auth_channel = environ.get('AUTH_CHANNEL', '-1003426869075')
@@ -61,7 +61,7 @@ SHORTENER_API2 = environ.get("SHORTENER_API2", "b76f67cf7284707d3211dd48fed23111
 SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", 'shortxlinks.com')
 SHORTENER_API3 = environ.get("SHORTENER_API3", "b76f67cf7284707d3211dd48fed23111fe56da7a")
 SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", 'shortxlinks.com')
-TWO_VERIFY_GAP = int(environ.get('TWO_VERIFY_GAP', "1800"))
+TWO_VERIFY_GAP = int(environ.get('TWO_VERIFY_GAP', "900"))
 THREE_VERIFY_GAP = int(environ.get('THREE_VERIFY_GAP', "1800"))
 #---------------------------------------------------------------
 #---------------------------------------------------------------
