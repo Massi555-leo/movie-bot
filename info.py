@@ -40,12 +40,12 @@ S_DB_URI = environ.get('S_DB_URI', "mongodb+srv://cutoffpic143:cutoffpic143@clus
 #---------------------------------------------------------------
 #----------- There will be channel id add in all these ---------
 LOG_API_CHANNEL = int(environ.get('LOG_API_CHANNEL', '-1003565807199'))  # set shortner log channel
-DELETE_CHANNELS = int(environ.get('DELETE_CHANNELS','-1002114486477')) # The movie you upload in it will be deleted from the bot.
+DELETE_CHANNELS = int(environ.get('DELETE_CHANNELS','-1003565807199')) # The movie you upload in it will be deleted from the bot.
 LOG_VR_CHANNEL = int(environ.get('LOG_VR_CHANNEL', '-1003565807199'))
 auth_channel = environ.get('AUTH_CHANNEL', '-1003426869075')
 SUPPORT_GROUP = int(environ.get('SUPPORT_GROUP', '-1002084178875'))
 request_channel = environ.get('REQUEST_CHANNEL', '-1002084178875') # If anyone sends a request message to your bot, you will get it in this channel.
-MOVIE_UPDATE_CHANNEL = int(environ.get('MOVIE_UPDATE_CHANNEL', '-1002114486477')) # 
+MOVIE_UPDATE_CHANNEL = int(environ.get('MOVIE_UPDATE_CHANNEL', '-1003565807199')) # 
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/+CBD-0cewqWFlMjg9') #Support group link ( make sure bot is admin )
 #---------------------------------------------------------------
 #---------------------------------------------------------------
