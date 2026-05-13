@@ -115,7 +115,7 @@ User - {}"""
 ⭐ Rating: {rating} / 10</b>
 """
 
-    FILE_CAPTION = """<blockquote><b>{file_name}\n\n𝖩𝗈𝗂𝗇➥ 「 @MALLlinkss 」</b></blockquote>"""
+    FILE_CAPTION = """<blockquote><b>{file_name}\n\n𝖩𝗈𝗂𝗇➥ 「 @MALL00003 」</b></blockquote>"""
     
 
     ALRT_TXT = """ᴊᴀʟᴅɪ ʏᴇʜᴀ sᴇ ʜᴀᴛᴏ !"""
