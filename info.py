@@ -82,7 +82,7 @@ FORCESUB_IMG = environ.get('FORCESUB_IMG', 'https://i.ibb.co/ZNC1Hnb/ad3f2c88a8f
 REFER_PICS = (environ.get("REFER_PICS", "https://iili.io/KhOzF0G.jpg")).split() 
 PAYPICS = (environ.get('PAYPICS', 'https://envs.sh/zcN.jpg')).split()
 SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://iili.io/KhOoTT7.jpg'))
-REACTIONS = ["👀", "😱", "🔥", "😍", "🎉", "🥰", "😇", "⚡"]
+REACTIONS = ["👀", "😱", "🔥", "😍", "🎉", "🥰", "😇", "⚡","🎁","👾","❤️"]
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 #---------------------------------------------------------------
